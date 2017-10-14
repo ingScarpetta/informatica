@@ -1,0 +1,2 @@
+# informatica
+repositorio clase informática
